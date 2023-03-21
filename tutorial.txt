@@ -1,0 +1,7 @@
+Mỗi lần muốn up code lên git thì làm như thế này 
+nhìn chưa alo???? ok chưa nhìn chưa rep thầy coi 
+Dau
+Up thu file index
+chú ý nè 
+Cái file tutorial này chưa có trên git thấy chưa thay roi
+Bây giờ muốn up file này lên thì làm như sau
